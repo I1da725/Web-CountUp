@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    padding: 100px 200px;
+    font-size: 50px;
+    margin: 20px;
+}
+
+#counter {
+    font-size: 48px;
+}
+
